@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc617332.css",
+    "main.js": "/static/js/main.c6487d43.js",
+    "static/js/787.d8bf79ed.chunk.js": "/static/js/787.d8bf79ed.chunk.js",
+    "static/media/demystifynanceLogo.png": "/static/media/demystifynanceLogo.0266f12be9b482cc8035.png",
+    "static/media/textSizeIcon.png": "/static/media/textSizeIcon.62073297577a41558dab.png",
+    "index.html": "/index.html",
+    "main.dc617332.css.map": "/static/css/main.dc617332.css.map",
+    "main.c6487d43.js.map": "/static/js/main.c6487d43.js.map",
+    "787.d8bf79ed.chunk.js.map": "/static/js/787.d8bf79ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc617332.css",
+    "static/js/main.c6487d43.js"
+  ]
+}

@@ -1,0 +1,102 @@
+body {
+  background-color: #bfd5ff;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.settings {
+border-style: none;
+border-color: black;
+border-width: 2px;
+width: 350px;
+height: 590px;
+background-color: white;
+border-radius: 10px;
+
+}
+
+.logo {
+
+width: 270px;
+margin-right: 6%;
+margin-top: 6%;
+}
+
+.xmark {
+
+
+margin-bottom: 4%;
+}
+
+.line {
+border-style: solid;
+border-color: rgb(205, 205, 205);
+border-width: .1px;
+width: 90%;
+margin:auto;
+
+}
+
+h2 {
+margin-right: 62%;
+color: green;
+
+}
+
+h5 {
+
+color: rgb(77, 77, 77);
+width: 80%;
+text-align: left;
+margin-left: 6%;
+margin-top: -3%;
+font-weight: 500;
+font-size: 2.6vh;
+
+}
+
+.dropdown {
+background-color: rgb(232, 232, 240);
+width: 70%;
+border-style: hidden;
+border-radius: 15px;
+height: 35px;
+text-align: center;
+font-size: 15px;
+}
+
+.textSizeOptions {
+
+margin-left: 10%;
+margin-bottom: 40px;
+margin-top: -10px;
+
+
+}
+
+.textSize1 {
+height: 40px;
+width: 40px;
+margin-left: 10%;
+margin-bottom: 40px;
+
+}
+
+.textSize2 {
+height: 50px;
+width: 50px;
+margin-left: 10%;
+margin-bottom: 40px;
+
+}
+
+.textSize3 {
+height: 60px;
+width: 60px;
+margin-left: 10%;
+margin-bottom: 40px;
+
+
+}
